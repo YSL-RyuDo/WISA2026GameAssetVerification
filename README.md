@@ -14,7 +14,7 @@
 
 <a href="https://ysl-ryudo.github.io/en/research/wisa/#poster"><img src="paper/WISA_2026_poster.webp" alt="Conference poster" width="320"></a>
 
-[Paper, Conference poster](https://github.com/YSL-RyuDo/wisa-2026-game-asset-verification/tree/main/paper)
+[Paper, Conference poster](https://github.com/YSL-RyuDo/WISA2026GameAssetVerification/tree/main/paper)
 
 ## Method and findings at a glance
 
