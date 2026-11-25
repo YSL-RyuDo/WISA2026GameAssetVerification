@@ -1,4 +1,4 @@
-# ゲーム画像アセット検証, WISA 2026
+# WISA 2026, ゲーム画像アセット検証
 
 <!-- portfolio-languages -->
 [![English](https://ysl-ryudo.github.io/assets/diagrams/language-en.svg)](README.md) [![한국어](https://ysl-ryudo.github.io/assets/diagrams/language-ko.svg)](README.ko.md) [![日本語（選択中）](https://ysl-ryudo.github.io/assets/diagrams/language-ja-current.svg)](README.ja.md)
@@ -9,6 +9,12 @@
 [第27回 World Conference on Information Security Applications](https://wisa.or.kr/)
 
 2026.08.26 ~ 28, 韓国・済州、MAISON GLAD
+
+## WISA 2026, 学会発表ポスター
+
+<a href="https://ysl-ryudo.github.io/ja/research/wisa/#poster"><img src="paper/WISA_2026_poster.webp" alt="学会発表ポスター" width="320"></a>
+
+[論文, 学会発表ポスター](https://github.com/YSL-RyuDo/wisa-2026-game-asset-verification/tree/main/paper)
 
 ## 手法と結果の概要
 

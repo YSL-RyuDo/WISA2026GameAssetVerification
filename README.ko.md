@@ -1,4 +1,4 @@
-# 게임 이미지 에셋 검증, WISA 2026
+# WISA 2026, 게임 이미지 에셋 검증
 
 <!-- portfolio-languages -->
 [![English](https://ysl-ryudo.github.io/assets/diagrams/language-en.svg)](README.md) [![한국어 (현재 언어)](https://ysl-ryudo.github.io/assets/diagrams/language-ko-current.svg)](README.ko.md) [![日本語](https://ysl-ryudo.github.io/assets/diagrams/language-ja.svg)](README.ja.md)
@@ -9,6 +9,12 @@
 [제27회 World Conference on Information Security Applications](https://wisa.or.kr/)
 
 2026.08.26 ~ 28, 제주 메종 글래드
+
+## WISA 2026, 학회 발표 포스터
+
+<a href="https://ysl-ryudo.github.io/ko/research/wisa/#poster"><img src="paper/WISA_2026_poster.webp" alt="학회 발표 포스터" width="320"></a>
+
+[논문, 학회 발표 포스터](https://github.com/YSL-RyuDo/wisa-2026-game-asset-verification/tree/main/paper)
 
 ## 방법과 결과 요약
 

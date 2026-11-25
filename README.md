@@ -1,4 +1,4 @@
-# Game Image Asset Verification, WISA 2026
+# WISA 2026, Game Image Asset Verification
 
 <!-- portfolio-languages -->
 [![English (current)](https://ysl-ryudo.github.io/assets/diagrams/language-en-current.svg)](README.md) [![한국어](https://ysl-ryudo.github.io/assets/diagrams/language-ko.svg)](README.ko.md) [![日本語](https://ysl-ryudo.github.io/assets/diagrams/language-ja.svg)](README.ja.md)
@@ -9,6 +9,12 @@
 [27th World Conference on Information Security Applications](https://wisa.or.kr/)
 
 26 ~ 28 Aug 2026, MAISON GLAD, Jeju, Korea
+
+## WISA 2026, Conference poster
+
+<a href="https://ysl-ryudo.github.io/en/research/wisa/#poster"><img src="paper/WISA_2026_poster.webp" alt="Conference poster" width="320"></a>
+
+[Paper, Conference poster](https://github.com/YSL-RyuDo/wisa-2026-game-asset-verification/tree/main/paper)
 
 ## Method and findings at a glance
 
